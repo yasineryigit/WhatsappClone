@@ -5,12 +5,14 @@
         android:id="@+id/menu_search"
         android:icon="@android:drawable/ic_menu_search"
         app:showAsAction="always"
+        android:iconTint="@color/white"
         android:title="Search"
         />
     <item
         android:id="@+id/menu_more"
-        android:icon="@android:drawable/ic_menu_more"
+        android:icon="@drawable/ic_baseline_more_vert_24"
         app:showAsAction="always"
+        android:iconTint="@color/white"
         android:title="Search"
         />
 
